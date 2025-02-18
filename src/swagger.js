@@ -11,7 +11,7 @@ const options = {
         },
         servers: [
             {
-                url: "http://localhost:3000/",
+                url: "https://school-system-c7r4.onrender.com/",
                 description: 'Development server',
 
             },
